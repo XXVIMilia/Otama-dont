@@ -29,3 +29,7 @@ Run main.py:
 
 windows -> "py src/main.py"
 linux -> "python src/main.py"
+
+
+library used:
+https://mido.readthedocs.io/en/stable/index.html 
