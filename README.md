@@ -7,7 +7,6 @@ Step 2
 Create a virtual environment in that folder:
 
 windows -> "py -m venv ."
-
 linux -> "python -m venv ."
 
 Step 3
@@ -20,7 +19,6 @@ Step 4
 Use pip to install the mido library:
 
 windows -> "py -m pip install mido"
-
 linux -> "python -m pip install mido"
 
 Step 5
@@ -30,5 +28,4 @@ Step 6
 Run main.py:
 
 windows -> "py src/main.py"
-
 linux -> "python src/main.py"
