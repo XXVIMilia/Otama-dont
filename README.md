@@ -1,4 +1,4 @@
-Assumes you have python 3.7 or higher in order to use
+Assumes you have python 3.7 or higher in order to use (Windows is broken, whoops)
 
 Step 1:
 Create a new folder
